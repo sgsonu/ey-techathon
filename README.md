@@ -1,4 +1,3 @@
-# Code Repository for EY Techathon
 # Prioritize vaccine delivery using AI/ML
 
 ## Contributing Guidelines
